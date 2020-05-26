@@ -165,7 +165,7 @@ if(WITH_TESTS)
 		add_subdirectory(test)
         file (DOWNLOAD
             "https://github.com/PDAL/data/raw/master/autzen/autzen.laz"
-            "test/raw-sets/autzen.laz")
+            "C:/Development/op3d_active/laz-perf-1.4.4/test/raw-sets/autzen.laz")
 	endif()
 endif()
 

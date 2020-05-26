@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Development\op3d_active\laz-perf-1.4.4\msvc\CMakeFiles\22152d3c50f4a9bde5a21d41333794e8\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E1A9FB38-1179-39F2-B6A9-0CB7C0721340}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

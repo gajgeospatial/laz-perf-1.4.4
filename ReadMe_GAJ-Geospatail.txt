@@ -1,0 +1,1 @@
+This project should be installed as LAZPERF_DIR with ProjectTool.
